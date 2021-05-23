@@ -8,7 +8,7 @@ The goal of this repository is to provide a meaningful implementation example of
 each pattern in order to help the reader to grasp the underlying intention behind them.
 
 > Thread safety, error handling, etc. are not a concern in those and are considered
-> to be implementation details.
+> as implementation details.
 
 If you would like to go deeper, [Raw Coding](https://www.youtube.com/watch?v=xN7EFHU_rXA&list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
 is doing an excellent work with its video tutorials. If you prefer a written
