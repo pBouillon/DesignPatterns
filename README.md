@@ -35,6 +35,7 @@ Each implemented pattern can be found in the folder associated to its category:
   - [Builder](./Creational/Builder.cs)
   - [Factory method](./Creational/FactoryMethod.cs)
   - [Prototype](./Creational/Prototype.cs)
+  - [Singleton](./Creational/Singleton.cs)
 - 🧱 [Structural patterns](./Structural)
   - [Flyweight](./Structural/Flyweight.cs)
 
