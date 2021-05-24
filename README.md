@@ -30,6 +30,7 @@ Each implemented pattern can be found in the folder associated to its category:
   - [State](./Behavioral/State.linq)
   - [Strategy](./Behavioral/Strategy.linq)
 - 🏗️ [Creational patterns](./Creational)
+  - [Abstract factory](./Creational/AbstractFactory.linq)
   - [Factory method](./Creational/FactoryMethod.linq)
 - 🧱 [Structural patterns](./Structural)
   - [Flyweight](./Structural/Flyweight.linq)
