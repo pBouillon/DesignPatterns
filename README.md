@@ -5,10 +5,11 @@ Short examples of several design patterns with written in C#.
 ## Purpose
 
 The goal of this repository is to provide a meaningful implementation example of
-each pattern in order to help the reader to grasp the underlying intention behind them.
+each pattern in order to help the reader to grasp the underlying intention
+behind them.
 
-> Thread safety, error handling, etc. are not a concern in those and are considered
-> as implementation details.
+> Thread safety, error handling, etc. are not a concern in those and are
+> considered as implementation details.
 
 If you would like to go deeper, [Raw Coding](https://www.youtube.com/watch?v=xN7EFHU_rXA&list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
 is doing an excellent work with its video tutorials. If you prefer a written
@@ -22,18 +23,19 @@ language-agnostic approach, detailing the heart of the problem.
 Each implemented pattern can be found in the folder associated to its category:
 
 - 🏃‍♀️ [Behavioral patterns](./Behavioral)
-  - [Chain of responsibility](./Behavioral/ChainOfResponsibility.linq)
-  - [Command](./Behavioral/Command.linq)
-  - [Iterator](./Behavioral/Iterator.linq)
-  - [Mediator](./Behavioral/Mediator.linq)
-  - [Observer](./Behavioral/Observer.linq)
-  - [State](./Behavioral/State.linq)
-  - [Strategy](./Behavioral/Strategy.linq)
+  - [Chain of responsibility](./Behavioral/ChainOfResponsibility.cs)
+  - [Command](./Behavioral/Command.cs)
+  - [Iterator](./Behavioral/Iterator.cs)
+  - [Mediator](./Behavioral/Mediator.cs)
+  - [Observer](./Behavioral/Observer.cs)
+  - [State](./Behavioral/State.cs)
+  - [Strategy](./Behavioral/Strategy.cs)
 - 🏗️ [Creational patterns](./Creational)
-  - [Abstract factory](./Creational/AbstractFactory.linq)
-  - [Factory method](./Creational/FactoryMethod.linq)
+  - [Abstract factory](./Creational/AbstractFactory.cs)
+  - [Builder](./Creational/Builder.cs)
+  - [Factory method](./Creational/FactoryMethod.cs)
 - 🧱 [Structural patterns](./Structural)
-  - [Flyweight](./Structural/Flyweight.linq)
+  - [Flyweight](./Structural/Flyweight.cs)
 
 ## Contribution
 
