@@ -1,5 +1,3 @@
-<Query Kind="Program" />
-
 // Simulate the calls
 WashingMachine washingMachine = new();
 Queue<Command> commands = new();

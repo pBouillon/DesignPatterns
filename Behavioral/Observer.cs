@@ -1,5 +1,3 @@
-<Query Kind="Program" />
-
 void Main()
 {
     var alarm = new Alarm();

@@ -1,6 +1,6 @@
 # DesignPatterns
 
-Short examples of several design patterns with written in C# (with [LINQPad](https://www.linqpad.net/)).
+Short examples of several design patterns with written in C#.
 
 ## Purpose
 
