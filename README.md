@@ -34,8 +34,12 @@ Each implemented pattern can be found in the folder associated to its category:
   - [Abstract factory](./Creational/AbstractFactory.cs)
   - [Builder](./Creational/Builder.cs)
   - [Factory method](./Creational/FactoryMethod.cs)
+  - [Prototype](./Creational/Prototype.cs)
 - 🧱 [Structural patterns](./Structural)
   - [Flyweight](./Structural/Flyweight.cs)
+
+> The `.Dump()` method is part of [LINQPad](https://www.linqpad.net/), check it
+> out if you want to run those examples as is
 
 ## Contribution
 
