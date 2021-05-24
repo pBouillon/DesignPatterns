@@ -37,6 +37,7 @@ Each implemented pattern can be found in the folder associated to its category:
   - [Prototype](./Creational/Prototype.cs)
   - [Singleton](./Creational/Singleton.cs)
 - 🧱 [Structural patterns](./Structural)
+  - [Adapter](./Structural/Adapter.cs)
   - [Flyweight](./Structural/Flyweight.cs)
 
 > The `.Dump()` method is part of [LINQPad](https://www.linqpad.net/), check it
