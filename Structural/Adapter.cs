@@ -16,7 +16,7 @@ void Main()
 
 
 // Interface allowing the two services (EmployeeService & EmailNotifier) to communicate
-// even tho their APIs are incompatible
+// even if their APIs are incompatible
 public interface IEmployeeNotificationService
 {
     void Notify(int id, string reason);
