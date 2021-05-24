@@ -1,3 +1,5 @@
+<Query Kind="Program" />
+
 // Usage
 void Main()
 {
